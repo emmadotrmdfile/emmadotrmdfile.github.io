@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic/prof_pic.png
   image_circular: false # crops the image to make it circular
-    more_info: >
-     <p>Me smiling (rare)</p>
+  more_info: >
+    <p>Me smiling (rare)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +26,6 @@ latest_posts:
 ---
 
 I am a graduate from Michigan State University with a Bachelor of Science in Sociology and minors in Quantitative Data Analytics and Women’s and Gender Studies. My pursuits are fueled by a curiosity about society’s complex gendered dynamics and a commitment to pushing forth change for it through data-driven analysis. 
-
 
 I am specifically interested in exploring the intersections of social justice, gender equality, and insights derived from data to better understand how systemic inequalities can be understood and transformed. By combining my knowledge in Sociology with skills in Quantitative Data Analytics and my understanding of Women’s and Gender Studies, I hope to contribute to research and foster ingenuity that promotes equity and empowerment for marginalized communities. My academic journey is not only about acquiring knowledge but also about using it as a catalyst for meaningful social impact.  
 
