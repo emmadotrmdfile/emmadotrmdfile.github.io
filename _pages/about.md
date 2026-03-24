@@ -6,14 +6,14 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic/prof_pic.png
+  image: prof_pic/prof_pic.PNG
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+   # <p>555 your office number</p>
+   # <p>123 your address street</p>
+   # <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,7 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello and welcome to my website! My name is Emma, and I am an aspiring data scientist focused on issues related to reproductive justice and gender justice. I recieved my b.s. in Sociology from Michigan State University. 
+I am a graduate from Michigan State University with a Bachelor of Science in Sociology and minors in Quantitative Data Analytics and Women’s and Gender Studies. My pursuits are fueled by a curiosity about society’s complex gendered dynamics and a commitment to pushing forth change for it through data-driven analysis. 
+
+
+I am specifically interested in exploring the intersections of social justice, gender equality, and insights derived from data to better understand how systemic inequalities can be understood and transformed. By combining my knowledge in Sociology with skills in Quantitative Data Analytics and my understanding of Women’s and Gender Studies, I hope to contribute to research and foster ingenuity that promotes equity and empowerment for marginalized communities. My academic journey is not only about acquiring knowledge but also about using it as a catalyst for meaningful social impact.  
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
