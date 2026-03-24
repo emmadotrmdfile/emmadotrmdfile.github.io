@@ -6,10 +6,10 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic/prof_pic.png
+  image: prof_pic/prof_pic_2.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Me smiling (rare)</p>
+  # more_info: >
+    # <p>Me smiling (rare)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
