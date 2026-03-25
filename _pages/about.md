@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic/prof_pic_4.png
+  image: prof_pic/prof_pic_4.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>Me smiling (rare)</p>
