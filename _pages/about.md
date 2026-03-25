@@ -25,9 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, and welcome to my website! My name is Emma, and I am a graduate from Michigan State University. 
-
-I with a Bachelor of Science in Sociology and minors in Quantitative Data Analytics and Women’s and Gender Studies. My pursuits are fueled by a curiosity about society’s complex gendered dynamics and a commitment to pushing forth change for it through data-driven analysis. 
+Hello, and welcome to my website! My name is Emma, and I am a graduate from Michigan State University. I hold a Bachelors of Science in Sociology and I have two minors; Quantitative Data Analytics and Women’s and Gender Studies. I think my minors describe my research interests perfectly, I love exploring 
 
 I am specifically interested in exploring the intersections of social justice, gender equality, and insights derived from data to better understand how systemic inequalities can be understood and transformed. By combining my knowledge in Sociology with skills in Quantitative Data Analytics and my understanding of Women’s and Gender Studies, I hope to contribute to research and foster ingenuity that promotes equity and empowerment for marginalized communities. My academic journey is not only about acquiring knowledge but also about using it as a catalyst for meaningful social impact.  
 
@@ -37,15 +35,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-
 <style>
 /* Force About page profile image to be bigger and circular */
 img.img-fluid {
-  max-width: 700px !important;  /* controls width on desktop */
+  max-width: 1000px !important;  /* controls width on desktop */
   width: auto !important;        /* ignore width="100%" inline */
-  height: auto !important;       /* keep aspect ratio */
-  border-radius: 50% !important; /* circular */
-  display: block !important;
-  margin: 0 auto !important;     /* center horizontally */
+  height: auto !important       /* keep aspect ratio */
 }
 </style>
