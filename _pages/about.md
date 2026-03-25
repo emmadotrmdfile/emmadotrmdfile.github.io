@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic/prof_pic_4.jpg
+  image: prof_pic/prof_pic_4.png
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>Me smiling (rare)</p>
@@ -27,6 +27,8 @@ latest_posts:
 
 Hello, and welcome to my website! My name is Emma, and I am a graduate from Michigan State University. I hold a Bachelors of Science in Sociology and I have two minors; Quantitative Data Analytics and Women’s and Gender Studies. I think my minors describe my research interests perfectly, I am very committed to reproductive justice, LGBT+ issues, women's issues, etc. and answer or analyze questions to these issues through a quantitative lens. I mainly use causal inference to answer political questions about the effects of women's representation (which is my most recent project). 
 
-I am currently seeking employment. send help/ 
+I am currently seeking employment. send help/ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
