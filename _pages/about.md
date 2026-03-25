@@ -25,16 +25,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, and welcome to my website! My name is Emma. I am a 2025 graduate from Michigan State University with a Bachelors of Science in Sociology. I have two minors, Quantitative Data Analytics and Women’s and Gender Studies. I think my minors describe my research interests perfectly, 
+Hello, and welcome to my website! My name is Emma. I am a recent alum from Michigan State University with a Bachelor of Science in Sociology. I have two minors, Quantitative Data Analytics and Women’s and Gender Studies. I think my minors describe my research interests perfectly, as I am very passionate about issues related to reproductive justice, trans rights, and women’s institutional empowerment. I like to explore these topics through causal inference and original dataset construction. More broadly, I am an aspiring political scientist/data scientist interested in how gendered health disparities and socioeconomic inequalities function both in the United States and globally, and how to improve them!
 
+My most recent project explores the impact of women's legislative representation in the U.S. on gender-specific healthcare mandates. I will be presenting this project at Loyola's [State Politics and Policy Conference](https://www.luc.edu/politicalscience/sppc2026.shtml) this year! I am currently working on getting this paper published soon, my working version can be viewed on my [publications page.](/publications/)   
 
-I am very committed to reproductive justice, LGBT+ issues, women's issues, etc. and answer or analyze questions to these issues through a quantitative lens. I mainly use causal inference to answer political questions about the effects of women's representation (which is my most recent project). 
+I am currently employed at the [Institute of Public Policy and Social Research](https://ippsr.msu.edu/), where I work under Matt Grossmann (and others) on a project examining global election midterm data loss. Much of my work involves coding and cleaning election data, very tedious at times, but that’s what makes me such a good detail-oriented person. 
 
-- research interests
-- current work IPPSR
-- seeking employment
-- please admit me to your grad program 
-- 
+I have also built several original datasets. My first examines [trans nondiscrimination policy](https://ippsr.msu.edu/public-policy/michigan-wonk-blog/state-legislatures-actions-face-rising-anti-trans-rhetoric) across the United States. My next two datasets support my current research: one compiles gender composition in state legislatures and insurance mandates from 2010–2024, and the other is a cosponsor dataset analyzing which demographics supported the passage of each bill. These datasets can be found on my [repositories page.](/repositories/)
 
+My previous research assistant experience includes qualitative analysis from questionnares (Sarah Prior), supporting text-analysis projects (Andy Halterman), and building datasets for a faculty sampling frame (Aaron McCright).  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hopefully this bio impresses you so you will hire me or admit me to your program. Thank you for taking the time to read this and visit my website!
