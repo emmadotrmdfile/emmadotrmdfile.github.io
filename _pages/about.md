@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic/prof_pic_2.png
+  image: prof_pic/prof_pic_3.png
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>Me smiling (rare)</p>
@@ -27,10 +27,6 @@ latest_posts:
 
 Hello, and welcome to my website! My name is Emma, and I am a graduate from Michigan State University. I hold a Bachelors of Science in Sociology and I have two minors; Quantitative Data Analytics and Women’s and Gender Studies. I think my minors describe my research interests perfectly, I am very committed to reproductive justice, LGBT+ issues, women's issues, etc. and answer or analyze questions to these issues through a quantitative lens. I mainly use causal inference to answer political questions about the effects of women's representation (which is my most recent project). 
 
-I am specifically interested in exploring the intersections of social justice, gender equality, and insights derived from data to better understand how systemic inequalities can be understood and transformed. By combining my knowledge in Sociology with skills in Quantitative Data Analytics and my understanding of Women’s and Gender Studies, I hope to contribute to research and foster ingenuity that promotes equity and empowerment for marginalized communities. My academic journey is not only about acquiring knowledge but also about using it as a catalyst for meaningful social impact.  
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently seeking employment. send help/ 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
