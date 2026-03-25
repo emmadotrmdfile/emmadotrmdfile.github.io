@@ -37,7 +37,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <style> 
 .profile-image, .avatar {
-  max-width: 300px;
+  max-width: 700px;
   width: 100%;
   height: auto;
 }
