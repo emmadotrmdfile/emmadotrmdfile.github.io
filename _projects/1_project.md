@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: with background image
+description: 
 img: assets/img/projects/p1.gif
 importance: 1
 category: selected projects

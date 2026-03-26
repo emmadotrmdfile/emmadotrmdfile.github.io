@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <a href="#">projects</a>
+title: projects
 permalink: /projects/
 # description: 
 nav: true
