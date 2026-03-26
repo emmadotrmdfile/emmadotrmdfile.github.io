@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: with background image
-img: assets/img/projects/12.jpg
+img: assets/img/projects/p1.gif
 importance: 1
 category: selected projects
 related_publications: true
