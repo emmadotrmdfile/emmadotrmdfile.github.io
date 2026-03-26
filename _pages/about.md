@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="#">❀ ❀ ❀</a>
+subtitle: <a href="#">✿ ✿ ✿</a>
 
 profile:
   align: right
@@ -31,7 +31,7 @@ My most recent project explores the impact of women's legislative representation
 
 I am currently employed at the [Institute of Public Policy and Social Research](https://ippsr.msu.edu/), where I work under Matt Grossmann (and others) on a project examining global election midterm data loss. Much of my work involves coding and cleaning election data, very tedious at times, but that’s what makes me such a good detail-oriented person. 
 
-I have also built several original datasets. My first examines [trans nondiscrimination policy](https://ippsr.msu.edu/public-policy/michigan-wonk-blog/state-legislatures-actions-face-rising-anti-trans-rhetoric) across the United States. My next two datasets support my current research: one compiles gender composition in state legislatures and insurance mandates from 2010–2024, and the other is a cosponsor dataset analyzing which demographics supported the passage of each bill. These datasets can be found on my [repositories page.](/repositories/)
+I have also built several original datasets. My first examines [transgender nondiscrimination policy](https://ippsr.msu.edu/public-policy/michigan-wonk-blog/state-legislatures-actions-face-rising-anti-trans-rhetoric) across the United States. My next two datasets support my current research: one compiles gender composition in state legislatures and insurance mandates from 2010–2024, and the other is a cosponsor dataset analyzing which demographics supported the passage of each bill. These datasets can be found on my [repositories page.](/repositories/)
 
 My previous research assistant experience includes qualitative analysis from questionnares [(Sarah Prior)](https://sociology.msu.edu/people/directory/prior-sarah.html), supporting text-analysis projects [(Andy Halterman)](https://andrewhalterman.com/), and building datasets for a faculty sampling frame [(Aaron McCright)](http://www.aaronmccright.com/).  
 
