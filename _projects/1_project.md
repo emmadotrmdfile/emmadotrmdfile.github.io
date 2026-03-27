@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Beyond The ACA
-subtitle: "2025"
-description: A project exploring the effects of women's representation
-img: assets/img/projects/p1.gif
+description: A causal inference analysis exploring the effects of women's representation
+img: assets/img/projects/p1_with.png
 importance: 1
 category: selected projects
 related_publications: true
@@ -12,7 +11,7 @@ A causal inference analysis focusing on
 women’s composition in legislatures and
 subsequent gendered health policies. 
 
- A novel dataset was aggregated
+A novel dataset was aggregated
 containing both policy and gender
 composition information. This dataset
 contains state-level insurance mandates
