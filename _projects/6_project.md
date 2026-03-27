@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 6
-description: a project with no image
-img:
+description:
+img: assets/img/projects/p6.gif
 importance: 6
 category: selected projects
 ---
