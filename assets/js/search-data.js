@@ -425,7 +425,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-beyond-the-aca",
           title: 'Beyond The ACA',
-          description: "Women&#39;s representation and its effect on healthcare policies",
+          description: "A project exploring the effects of women&#39;s representation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
