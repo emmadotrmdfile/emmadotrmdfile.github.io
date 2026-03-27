@@ -425,12 +425,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-beyond-the-aca",
           title: 'Beyond The ACA',
-          description: "A project exploring the effects of women&#39;s representation",
+          description: "A causal inference analysis exploring the effects of women&#39;s representation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-transgender-non-discrimination-policy",
-          title: 'Transgender Non-Discrimination Policy',
-          description: "Descriptive analysis of transgender non-discrimination policy in the U.S.",
+            },},{id: "projects-rising-anti-trans-rhetoric",
+          title: 'Rising Anti-Trans Rhetoric',
+          description: "Descriptive analysis of transgender protections in the U.S.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hookup-culture-at-msu",
@@ -438,8 +438,8 @@ ninja.data = [{
           description: "A qualitative analysis examining MSU student perspectives of hookup culture on campus",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-the-global-status-of-transgender-rights",
-          title: 'The Global Status of Transgender Rights',
+            },},{id: "projects-trans-non-discrimination-policy",
+          title: 'Trans Non-Discrimination Policy',
           description: "Does a proportionate number of women in parliaments have an impact?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
@@ -450,7 +450,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-analyzing-and-visualizing-data-in-politics",
           title: 'Analyzing and Visualizing Data in Politics',
-          description: "Two of my first projects in R!",
+          description: "Two of my first projects in R",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
