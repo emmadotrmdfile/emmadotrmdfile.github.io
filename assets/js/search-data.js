@@ -424,8 +424,8 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-beyond-the-aca",
-          title: 'Beyond the ACA',
-          description: "",
+          title: 'Beyond The ACA',
+          description: "Women&#39;s representation and its effect on healthcare policies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
