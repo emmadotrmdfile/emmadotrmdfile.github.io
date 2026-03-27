@@ -1,30 +1,27 @@
 ---
 layout: page
-title: Beyond the ACA
-description: 
+title: Beyond The ACA
+description: Women's representation and its effect on healthcare policies
 img: assets/img/projects/p1.gif
 importance: 1
 category: selected projects
 related_publications: true
 ---
-hi
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project explores
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/pres_3.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/pres_mid_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/pres_1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/pres.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/pres_2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/pres_mid.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    My presentation at MSU's Undergraduate Research and Arts Forum, also the conference where my co-author and I won first place at!
+    My presentation at MSU's Undergraduate Research and Arts Forum and Mid-Sure. 
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
