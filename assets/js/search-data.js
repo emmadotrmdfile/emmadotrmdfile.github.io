@@ -428,29 +428,29 @@ ninja.data = [{
           description: "A project exploring the effects of women&#39;s representation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "",
+            },},{id: "projects-transgender-non-discrimination-policy",
+          title: 'Transgender Non-Discrimination Policy',
+          description: "Descriptive analysis of transgender non-discrimination policy in the U.S.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "",
+            },},{id: "projects-hookup-culture-at-msu",
+          title: 'Hookup Culture at MSU',
+          description: "A qualitative analysis examining MSU student perspectives of hookup culture on campus",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "",
+            },},{id: "projects-the-global-status-of-transgender-rights",
+          title: 'The Global Status of Transgender Rights',
+          description: "Does a proportionate number of women in parliaments have an impact?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "",
+            },},{id: "projects-consequences-of-abortion-restrictions",
+          title: 'Consequences of Abortion Restrictions',
+          description: "An analysis in python looking at abortion policy in the U.S.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "",
+            },},{id: "projects-analyzing-and-visualizing-data-in-politics",
+          title: 'Analyzing and Visualizing Data in Politics',
+          description: "Two of my first projects in R!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
