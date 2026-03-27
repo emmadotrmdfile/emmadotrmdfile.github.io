@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Beyond The ACA
-description: Women's representation and its effect on healthcare policies
+subtitle: 2025
+description: A project exploring the effects of women's representation
 img: assets/img/projects/p1.gif
 importance: 1
 category: selected projects
 related_publications: true
 ---
-This project explores
+This project explores 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,7 +22,7 @@ This project explores
     </div>
 </div>
 <div class="caption">
-    My presentation at MSU's Undergraduate Research and Arts Forum and Mid-Sure. 
+    Me presenting at MSU's Undergraduate Research and Arts Forum (April 2025) and Mid-Sure (July 2025). 
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
