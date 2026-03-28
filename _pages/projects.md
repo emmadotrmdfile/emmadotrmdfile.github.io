@@ -5,7 +5,7 @@ permalink: /projects/
 # description: 
 nav: true
 nav_order: 1
-display_categories: [selected projects] # used to say [work, fun] so there was 2 sep categories displayed on the page
+display_categories: [work, academic] # used to say [work, fun] so there was 2 sep categories displayed on the page
 horizontal: false
 ---
 
