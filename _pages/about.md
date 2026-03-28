@@ -38,9 +38,3 @@ My previous research assistant experience includes qualitative analysis from que
 I am highly proficient in `R`, and moderately proficient in `Python` and `LaTeX`. I have been trained in advanced causal inference methods using observational data, as well as qualitative methods (e.g., survey and questionnaire design). I have received various grants, awards, and scholarships totaling $10,400.
 
 Hopefully this bio impresses you so you will hire me or admit me to your program. Thank you for taking the time to read this and visit my website!
-
-<div class="row justify-content-center">
-    <div class="col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/prof_pic/grad.jpg" title="graduation photo" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
