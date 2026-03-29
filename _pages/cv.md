@@ -35,7 +35,7 @@ cv_format: rendercv # options: rendercv, jsonresume
 <style>
 /* PDF container styling */
 .cv-container {
-  width: 78%;
+  width: 70%;
   max-width: 900px;
   margin: 20px auto;
   border: 2px solid var(--global-theme-color);
