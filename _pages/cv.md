@@ -14,7 +14,7 @@ cv_format: rendercv # options: rendercv, jsonresume
 <div class="text-center">
 
   <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" 
-     class="btn btn-outline-dark mb-4" 
+     class="btn btn-outline-primary"
      target="_blank">
     Download CV
   </a>
@@ -22,7 +22,7 @@ cv_format: rendercv # options: rendercv, jsonresume
   <div class="cv-container">
     <iframe 
       src="{{ '/assets/pdf/cv.pdf#toolbar=0' | relative_url }}" 
-      width="100%" 
+      width="105%" 
       height="900px"
       style="border: none;">
     </iframe>
