@@ -13,16 +13,18 @@ cv_format: rendercv # options: rendercv, jsonresume
 
 <div class="text-center">
 
+  <!-- Download Button -->
   <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" 
-     class="btn btn-outline-primary"
+     class="cv-download"
      target="_blank">
     Download CV
   </a>
 
+  <!-- PDF Container -->
   <div class="cv-container">
     <iframe 
       src="{{ '/assets/pdf/cv.pdf#toolbar=0' | relative_url }}" 
-      width="105%" 
+      width="100%" 
       height="900px"
       style="border: none;">
     </iframe>
@@ -31,11 +33,31 @@ cv_format: rendercv # options: rendercv, jsonresume
 </div>
 
 <style>
+/* PDF container styling */
 .cv-container {
-  width: 80%;
-  margin: 0 auto;
+  width: 100%;
+  max-width: 900px;
+  margin: 20px auto;
   border: 2px solid var(--global-theme-color);
   border-radius: 12px;
   overflow: hidden;
+}
+
+/* Download button styling */
+.cv-download {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 10px 18px;
+  border: 2px solid var(--global-theme-color);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--global-theme-color);
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.cv-download:hover {
+  background-color: var(--global-theme-color);
+  color: var(--global-bg-color);
 }
 </style>
