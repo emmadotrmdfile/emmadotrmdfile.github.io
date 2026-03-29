@@ -24,7 +24,7 @@ cv_format: rendercv # options: rendercv, jsonresume
   <div class="cv-container">
     <iframe 
       src="{{ '/assets/pdf/cv.pdf#toolbar=0' | relative_url }}" 
-      width="110%" 
+      width="100%" 
       height="900px"
       style="border: none;">
     </iframe>
@@ -35,7 +35,7 @@ cv_format: rendercv # options: rendercv, jsonresume
 <style>
 /* PDF container styling */
 .cv-container {
-  width: 90%;
+  width: 100%;
   max-width: 900px;
   margin: 20px auto;
   border: 2px solid var(--global-theme-color);
