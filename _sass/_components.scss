@@ -159,6 +159,34 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 1rem;
     text-align: right;
   }
+
+/* === Adding this for hover images === */
+  .project-image {
+    position: relative;
+    overflow: hidden;
+
+    .img-hover {
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+    }
+
+    img {
+      width: 100%;
+      transition: opacity 0.4s ease-in-out;
+    }
+
+    &:hover {
+      .img-hover {
+        opacity: 1;
+      }
+
+      .img-default {
+        opacity: 0;
+      }
+    }
+  }
 }
 
 // Repositories

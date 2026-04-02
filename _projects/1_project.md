@@ -2,7 +2,8 @@
 layout: page
 title: Beyond The ACA
 description: A causal inference analysis exploring the effects of women's representation
-img: assets/img/projects/p1_with.png
+img: assets/img/projects/p1_without_writing.png
+img_hover: assets/img/projects/p1_with.png
 importance: 1
 category: work
 related_publications: true
