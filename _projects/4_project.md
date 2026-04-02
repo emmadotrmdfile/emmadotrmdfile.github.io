@@ -2,7 +2,8 @@
 layout: page
 title: Trans Non-Discrimination Policy
 description: Does a proportionate number of women in parliaments have an impact?
-img: assets/img/projects/p4.png
+img: assets/img/projects/p4_.png
+img_hover: assets/img/projects/p4.png
 importance: 4
 category: academic
 ---
