@@ -174,7 +174,7 @@ ul.task-list input[type="checkbox"] {
 
     img {
       width: 100%;
-      transition: opacity 0.4s ease-in-out;
+      transition: opacity 2.0s ease-in-out;
     }
 
     &:hover {
@@ -184,6 +184,19 @@ ul.task-list input[type="checkbox"] {
 
       .img-default {
         opacity: 0;
+      }
+    }
+  }
+
+/* ===== MOBILE FALLBACK ===== */
+    @media (max-width: 768px) {
+      .project-image {
+        .img-default {
+          display: none;
+        }
+        .img-hover {
+          opacity: 1;
+          position: relative; // hide hover image on mobile
       }
     }
   }
