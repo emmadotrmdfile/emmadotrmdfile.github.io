@@ -10,7 +10,7 @@ related_publications: false
 ---
 This is my most recent project at the Institute of Public Policy and Social Research. My co-author, [Chloe (Lola) Browne](https://sites.google.com/view/lbrownec/about), and I constructed a panel dataset on insurance mandates related to women’s, men’s, and transgender healthcare, along with the gender composition of U.S. state legislatures from 2010 to 2024. Using this dataset, we applied causal inference methods to examine how women’s representation in U.S. political institutions shapes the passage of gender-specific healthcare policies. More broadly, we aimed to understand the impact of women’s political representation on healthcare policy outcomes.
 
-<div class="row">
+<div class="row align-items-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/pres.JPG" title="presentation" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -50,7 +50,7 @@ The dataset includes information on insurance mandates related to:
 - The effects are smaller for men’s healthcare policies
 - We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy 
 
-<div class="row">
+<div class="row align-items-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/poster.jpg" title="presentation" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -66,7 +66,7 @@ The dataset includes information on insurance mandates related to:
 
 As a supplementary extension of this project, we constructed an additional dataset on the demographics of bill cosponsors for the policies in our main dataset. This includes counts by gender, party, and race for legislators supporting each policy. While not part of the primary analysis, these data provide suggestive evidence on who is supporting and advancing gender-related healthcare policies, offering insight into potential mechanisms underlying our main findings. The bar plots above were made through this data. 
 
-<div class="row justify-content-sm-center">
+<div class="row align-items-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/fig6.png" title="results figure" class="img-fluid rounded z-depth-1" %}
     </div>
