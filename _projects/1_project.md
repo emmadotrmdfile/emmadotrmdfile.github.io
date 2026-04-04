@@ -22,7 +22,7 @@ This is my most recent project at the Institute of Public Policy and Social Rese
     </div>
 </div>
 <div class="caption">
-    Me presenting at MSU's Undergraduate Research and Arts Forum (UURAF) and Mid-Sure, where I won first place!
+    Me presenting at MSU's Undergraduate Research and Arts Forum (where I won first place) and Mid-Sure
 </div>
 
 ## Dataset
@@ -35,36 +35,35 @@ The dataset includes information on insurance mandates related to:
     - Contraceptives
     - Abortion
     - Fertility treatments
+
 - Men-Friendly Policy
     - Vasectomies
     - Erectile dysfunction treatments
     - Prostate cancer screenings
+
 - Transgender-Friendly Policy
     - Gender-affirming surgery
     - Hormone therapy 
 
 ## Methods & Findings
 
-- Using a two-way fixed effects model, we estimated the effect of women’s representation on the passage of gender-specific healthcare policies across states and over time
-- We find that increases in women’s representation are associated with a higher likelihood of enacting women’s health-related policies
-- The effects are smaller for men’s healthcare policies
-- We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy 
+Using a two-way fixed effects model, we estimated the effect of women’s representation on the passage of gender-specific healthcare policies across states and over time. We find that increases in women’s representation are associated with a higher likelihood of enacting women’s health-related policies. The effects are smaller for men’s healthcare policies. We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy. 
 
 <div class="row align-items-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/poster.jpg" title="presentation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/poster.pdf" title="presentation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/results_plot_MID.png" title="results figure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    My poster and results figure used in UURAF
+    My poster and results figure used in a conference
 </div>
 
 ## Cosponsor data
 
-As a supplementary extension of this project, we constructed an additional dataset on the demographics of bill cosponsors for the policies in our main dataset. This includes counts by gender, party, and race for legislators supporting each policy. While not part of the primary analysis, these data provide suggestive evidence on who is supporting and advancing gender-related healthcare policies, offering insight into potential mechanisms underlying our main findings. The bar plots above were made through this data. 
+As a supplementary extension of this project, we constructed an additional dataset on the demographics of bill cosponsors for the policies in our main dataset. This includes counts by gender, party, and race for legislators supporting each policy. While not part of the primary analysis, these data provide suggestive evidence on who is supporting and advancing gender-related healthcare policies, offering insight into potential mechanisms underlying our main findings. The bar plots below were made through this data. 
 
 <div class="row align-items-center">
     <div class="col-sm-4 mt-3 mt-md-0">
