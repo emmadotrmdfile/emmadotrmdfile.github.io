@@ -6,7 +6,7 @@ img: assets/img/projects/p1_without_writing.png
 img_hover: assets/img/projects/p1_with.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 This is my most recent project at the Institute of Public Policy and Social Research. My co-author, [Chloe (Lola) Browne](https://sites.google.com/view/lbrownec/about), and I constructed a panel dataset on insurance mandates related to women’s, men’s, and transgender healthcare, along with the gender composition of U.S. state legislatures from 2010 to 2024. Using this dataset, we applied causal inference methods to examine how women’s representation in U.S. political institutions shapes the passage of gender-specific healthcare policies. More broadly, we aimed to understand the impact of women’s political representation on healthcare policy outcomes.
 
@@ -43,11 +43,8 @@ The dataset includes information on insurance mandates related to:
 ## Methods & Findings
 
 - Using a two-way fixed effects model, we estimated the effect of women’s representation on the passage of gender-specific healthcare policies across states and over time
-
 - We find that increases in women’s representation are associated with a higher likelihood of enacting women’s health-related policies
-
 - The effects are smaller for men’s healthcare policies
-
 - We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy. 
 
 <div class="row justify-content-sm-center">
@@ -75,5 +72,5 @@ We have presented this research at two undergraduate forumns now, [UURAF](https:
 
 ## Repository
 
-The datasets and codebook can be found (here.)[https://github.com/emmadotrmdfile/Beyond_the_ACA/] 
+The datasets and codebook can be found [here.](https://github.com/emmadotrmdfile/Beyond_the_ACA/)
 

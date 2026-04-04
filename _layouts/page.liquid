@@ -16,7 +16,10 @@ layout: default
       <p class="post-subtitle">{{ page.subtitle }}</p>
     {% endif %}
     
-    <p class="post-description">{{ page.description }}</p>
+    {% if page.layout != "project" %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+    
   </header>
 
   <article>
