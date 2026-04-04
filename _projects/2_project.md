@@ -28,5 +28,7 @@ In addition, the dataset includes measures of anti-equality policies, such as Re
 
 The data were compiled from the Human Rights Campaign's [state equality index](https://www.hrc.org/resources/equality-from-state-to-state) and the Movement Advancement Project [policy maps.](https://www.lgbtmap.org/equality-maps) 
 
-After constructing the dataset, I wrote a blog post for IPPSR's Policy Wonk. It focuses on the importance of these non-discrimination laws in the face of rising anti-trans rhetoric. The post can be found [here.](https://ippsr.msu.edu/public-policy/michigan-wonk-blog/state-legislatures-actions-face-rising-anti-trans-rhetoric) 
+After constructing the dataset, I wrote a blog post for IPPSR's [Policy Wonk.](https://ippsr.msu.edu/public-policy/michigan-wonk-blog/state-legislatures-actions-face-rising-anti-trans-rhetoric) It focuses on the importance of these non-discrimination laws in the face of rising anti-trans rhetoric. 
+
+If you are interested in this dataset or would like to see the code I used to create the figures, my repository for this project can be found [here.](https://github.com/emmadotrmdfile/trans-nondiscrim-policy-dataset)
 
