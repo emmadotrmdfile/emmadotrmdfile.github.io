@@ -12,14 +12,17 @@ This is my most recent project at the Institute of Public Policy and Social Rese
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/pres.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/pres.JPG" title="presentation" class="img-fluid rounded z-depth-1" %}
+    </div
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/reward.png" title="award photo" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/poster.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/pres_mid.jpeg" title="presentation figure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Me presenting at MSU's Undergraduate Research and Arts Forum, where I won first place!
+    Me presenting at MSU's Undergraduate Research and Arts Forum (UURAF) and Mid-Sure, where I won first place!
 </div>
 
 ## Dataset
@@ -29,46 +32,58 @@ To assess whether a policy was passed in a given state-year, we used LegiScan to
 The dataset includes information on insurance mandates related to:
 
 - Women-Friendly Policy
-    - contraceptives
-    - abortion
-    - fertility treatments
+    - Contraceptives
+    - Abortion
+    - Fertility treatments
 - Men-Friendly Policy
-    - vasectomies
-    - erectile dysfunction treatments
-    - prostate cancer screenings
+    - Vasectomies
+    - Erectile dysfunction treatments
+    - Prostate cancer screenings
 - Transgender-Friendly Policy
-    - gender-affirming surgery
-    - transgender hormone therapy 
+    - Gender-affirming surgery
+    - Hormone therapy 
 
 ## Methods & Findings
 
 - Using a two-way fixed effects model, we estimated the effect of women’s representation on the passage of gender-specific healthcare policies across states and over time
 - We find that increases in women’s representation are associated with a higher likelihood of enacting women’s health-related policies
 - The effects are smaller for men’s healthcare policies
-- We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy. 
+- We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy 
 
-<div class="row justify-content-sm-center">
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/poster.jpg" title="presentation" class="img-fluid rounded z-depth-1" %}
+    </div
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/results_plot_MID.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/fig6.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/fig7.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/results_plot_MID.png" title="results figure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    
+    My poster and results figure used in UURAF
 </div>
 
 ## Cosponsor data
 
 As a supplementary extension of this project, we constructed an additional dataset on the demographics of bill cosponsors for the policies in our main dataset. This includes counts by gender, party, and race for legislators supporting each policy. While not part of the primary analysis, these data provide suggestive evidence on who is supporting and advancing gender-related healthcare policies, offering insight into potential mechanisms underlying our main findings. The bar plots above were made through this data. 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/fig6.png" title="results figure" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/fig7.png" title="cosponsor figure" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/fig8.png" title="cosponsor figure" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Cosponsor figures I made in RStudio
+</div>
+
 ## Conferences & Publication 
 
-We have presented this research at two undergraduate forumns now, [UURAF](https://www.instagram.com/reel/DIT3SWEA-M1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D) and Mid-Sure, and will present a reformulated version at Loyola’s State Politics and Policy Conference in June! The working version of this paper can be viewed [here](/publications/).
+We have presented this research at two undergraduate forums now, [UURAF](https://www.instagram.com/reel/DIT3SWEA-M1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D) and Mid-Sure, and will present a reformulated version at Loyola’s State Politics and Policy Conference in June! The working version of this paper can be viewed [here](/publications/).
 
 ## Repository
 
