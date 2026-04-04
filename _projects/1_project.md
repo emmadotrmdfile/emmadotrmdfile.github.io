@@ -22,7 +22,7 @@ This is my most recent project at the Institute of Public Policy and Social Rese
     </div>
 </div>
 <div class="caption">
-    Me presenting at MSU's Undergraduate Research and Arts Forum (where I won first place) and Mid-Sure
+    Me presenting at MSU's Undergraduate Research and Arts Forum (where I won first place) and Mid-Sure.
 </div>
 
 ## Dataset
@@ -58,10 +58,10 @@ Using a two-way fixed effects model, we estimated the effect of women’s repres
     </div>
 </div>
 <div class="caption">
-    My poster and results figure used in a conference
+    Our Conference Poster and Results Figure.
 </div>
 
-## Cosponsor data
+## Cosponsor Data
 
 As a supplementary extension of this project, we constructed an additional dataset on the demographics of bill cosponsors for the policies in our main dataset. This includes counts by gender, party, and race for legislators supporting each policy. While not part of the primary analysis, these data provide suggestive evidence on who is supporting and advancing gender-related healthcare policies, offering insight into potential mechanisms underlying our main findings. The bar plots below were made through this data. 
 
@@ -77,7 +77,7 @@ As a supplementary extension of this project, we constructed an additional datas
     </div>
 </div>
 <div class="caption">
-    Cosponsor figures I made in RStudio
+    Cosponsor Figures. Made in R.
 </div>
 
 ## Conferences & Publication 
