@@ -8,72 +8,72 @@ importance: 1
 category: work
 related_publications: true
 ---
-A causal inference analysis focusing on
-women’s composition in legislatures and
-subsequent gendered health policies. 
-
-A novel dataset was aggregated
-containing both policy and gender
-composition information. This dataset
-contains state-level insurance mandates
-related to women’s, men’s, and
-transgender healthcare, obtained via
-keyword search that retrieved the raw
-text of hundreds of bills.
-
-Employed a two-way fixed effects model
-to isolate the relationship between
-women's representation in state
-legislatures and the enactment of
-insurance mandates. 
+This is my most recent project at the Institute of Public Policy and Social Research. My co-author, [Chloe (Lola) Browne](https://sites.google.com/view/lbrownec/about), and I constructed a panel dataset on insurance mandates related to women’s, men’s, and transgender healthcare, along with the gender composition of U.S. state legislatures from 2010 to 2024. Using this dataset, we applied causal inference methods to examine how women’s representation in U.S. political institutions shapes the passage of gender-specific healthcare policies. More broadly, we aimed to understand the impact of women’s political representation on healthcare policy outcomes.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/pres_mid_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/pres.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/pres_mid.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/poster.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Me presenting at MSU's Undergraduate Research and Arts Forum (April 2025) and Mid-Sure (July 2025). 
+    Me presenting at MSU's Undergraduate Research and Arts Forum, where I won first place!
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Dataset
+
+To assess whether a policy was passed in a given state-year, we used LegiScan to obtain the full text of thousands of bills through keyword searches. We then manually reviewed each bill to verify whether it enacted a relevant policy. At the same time, we also compiled existing data on the gender composition of state legislatures. When this was completed, we merged these sources to construct the final state-year panel dataset. 
+
+The dataset includes information on insurance mandates related to:
+
+- Women-Friendly Policy
+    - contraceptives
+    - abortion
+    - fertility treatments
+- Men-Friendly Policy
+    - vasectomies
+    - erectile dysfunction treatments
+    - prostate cancer screenings
+- Transgender-Friendly Policy
+    - gender-affirming surgery
+    - transgender hormone therapy 
+
+## Methods & Findings
+
+- Using a two-way fixed effects model, we estimated the effect of women’s representation on the passage of gender-specific healthcare policies across states and over time
+
+- We find that increases in women’s representation are associated with a higher likelihood of enacting women’s health-related policies
+
+- The effects are smaller for men’s healthcare policies
+
+- We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/results_plot_MID.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/fig6.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/fig7.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Cosponsor data
 
-{% raw %}
+As a supplementary extension of this project, we constructed an additional dataset on the demographics of bill cosponsors for the policies in our main dataset. This includes counts by gender, party, and race for legislators supporting each policy. While not part of the primary analysis, these data provide suggestive evidence on who is supporting and advancing gender-related healthcare policies, offering insight into potential mechanisms underlying our main findings. The bar plots above were made through this data. 
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Conferences & Publication 
 
-{% endraw %}
+We have presented this research at two undergraduate forumns now, [UURAF](https://www.instagram.com/reel/DIT3SWEA-M1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D) and Mid-Sure, and will present a reformulated version at Loyola’s State Politics and Policy Conference in June! The working version of this paper can be viewed [here](/publications/).
+
+## Repository
+
+The datasets and codebook can be found (here.)[https://github.com/emmadotrmdfile/Beyond_the_ACA/] 
+
