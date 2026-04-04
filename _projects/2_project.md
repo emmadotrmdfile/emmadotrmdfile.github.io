@@ -6,7 +6,7 @@ img: assets/img/projects/p2_without_writing.png
 img_hover: assets/img/projects/p2.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 <div class="row align-items-center">
     <div class="col-sm-6 mt-3 mt-md-0">
