@@ -13,7 +13,7 @@ This is my most recent project at the Institute of Public Policy and Social Rese
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/pres.JPG" title="presentation" class="img-fluid rounded z-depth-1" %}
-    </div
+    </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/reward.png" title="award photo" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -53,7 +53,7 @@ The dataset includes information on insurance mandates related to:
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/poster.jpg" title="presentation" class="img-fluid rounded z-depth-1" %}
-    </div
+    </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/results_plot_MID.png" title="results figure" class="img-fluid rounded z-depth-1" %}
     </div>
