@@ -9,11 +9,12 @@ category: work
 giscus_comments: false
 ---
 <div class="row align-items-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/anti-discrim.png" title="map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+<div class="row align-items-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/anti-equal.png" title="results figure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
