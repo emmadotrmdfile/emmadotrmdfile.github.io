@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transgender Non-Discrim Policy Dataset
+title: Transgender Non-Discrimination Policy Dataset
 description: State-year dataset capturing transgender policy protections and restrictions
 img: assets/img/projects/p2_without_writing.png
 img_hover: assets/img/projects/p2.png

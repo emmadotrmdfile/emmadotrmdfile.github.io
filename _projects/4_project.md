@@ -26,7 +26,7 @@ At the end of the semester, I presented this work at a poster session hosted by 
 <hr>
 
 <div class="row justify-content-sm-center">
-  <div class="col-8 mt-3 mt-md-0">
+  <div class="col-10 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/trans poster.png" title="poster" 
         class="img-fluid rounded z-depth-1" %}
     </div>

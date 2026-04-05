@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gendered Healthcare Policy Project
-description: Novel dataset on gendered healthcare policy with causal analysis of women’s representation
+description: Novel dataset on gender-specifc healthcare policy with causal analysis of women’s representation
 img: assets/img/projects/p1_without_writing.png
 img_hover: assets/img/projects/p1_with.png
 importance: 1
