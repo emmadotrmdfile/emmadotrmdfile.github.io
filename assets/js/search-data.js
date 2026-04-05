@@ -46,14 +46,14 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-beyond-the-aca",
-          title: 'Beyond The ACA',
-          description: "A causal inference analysis exploring the effects of women&#39;s representation",
+          section: "News",},{id: "projects-gendered-healthcare-policy-project",
+          title: 'Gendered Healthcare Policy Project',
+          description: "Novel dataset on gendered healthcare policy with causal analysis of women’s representation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-rising-anti-trans-rhetoric",
-          title: 'Rising Anti-Trans Rhetoric',
-          description: "Descriptive analysis of transgender protections in the U.S.",
+            },},{id: "projects-transgender-non-discrim-policy-dataset",
+          title: 'Transgender Non-Discrim Policy Dataset',
+          description: "State-year dataset capturing transgender policy protections and restrictions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-hookup-culture-at-msu",
@@ -61,9 +61,9 @@ ninja.data = [{
           description: "A qualitative analysis examining MSU student perspectives of hookup culture on campus",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-trans-non-discrimination-policy",
-          title: 'Trans Non-Discrimination Policy',
-          description: "Does a proportionate number of women in parliaments have an impact?",
+            },},{id: "projects-trip-causal-analysis",
+          title: 'TRIP Causal Analysis',
+          description: "Does a proportionate number of women in parliaments have an impact on trans non-discrimination policy?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-consequences-of-abortion-restrictions",
