@@ -21,17 +21,27 @@ We presented this research at multiple conferences, including Michigan State Uni
 Through this work, I was awarded a research grant from the [Provost Undergraduate Research Initiative Award](https://socialscience.msu.edu/news-events/news/2024-11-07.html), and completed training in the Responsible Conduct of Research and Institutional Review Board certification.
 
 ## Poster
-<div class="row justify-content-center">
-  <div class="col-sm-8 mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/projects/uuraf.jpg" title="poster" class="img-fluid rounded z-depth-1" %}
+
+<hr>
+
+<div class="row">
+  <div class="col-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/uuraf.jpg" title="poster" 
+        class="img-fluid rounded z-depth-1 d-block mx-auto" %}
     </div>
 </div>
 
 ## Venn Diagram
-<div class="row justify-content-center">
-  <div class="col-sm-8 mt-3 mt-md-0 text-center">
-        {% include figure.liquid path="assets/img/projects/venn.png" title="venn diagram" class="img-fluid rounded z-depth-1" %}
-    </div>
+
+<hr>
+
+<div class="row">
+  <div class="col-10 mt-3 mt-md-0">
+    {% include figure.liquid 
+       path="assets/img/projects/venn-diagram.png" 
+       title="Venn diagram" 
+       class="img-fluid rounded z-depth-1 d-block mx-auto" %}
+  </div>
 </div>
 <div class="caption">
     Venn diagram illustrating the distribution of pseudonymous respondents across positive and negative themes, a figure included in our article.

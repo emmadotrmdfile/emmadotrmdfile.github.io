@@ -27,6 +27,8 @@ This is my most recent project at the Institute of Public Policy and Social Rese
 
 ## Dataset
 
+<hr>
+
 To assess whether a policy was passed in a given state-year, we used LegiScan to obtain the full text of thousands of bills through keyword searches. We then manually reviewed each bill to verify whether it enacted a relevant policy. At the same time, we also compiled existing data on the gender composition of state legislatures. When this was completed, we merged these sources to construct the final state-year panel dataset. 
 
 The dataset includes information on insurance mandates related to:
@@ -47,13 +49,15 @@ The dataset includes information on insurance mandates related to:
 
 ## Methods & Findings
 
+<hr>
+
 Using a two-way fixed effects model, we estimated the effect of women’s representation on the passage of gender-specific healthcare policies across states and over time. We find that increases in women’s representation are associated with a higher likelihood of enacting women’s health-related policies. The effects are smaller for men’s healthcare policies. We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy. 
 
 <div class="row align-items-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-7.5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/dag.png" title="dag" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4.5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/results_plot_MID.png" title="results figure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -62,6 +66,8 @@ Using a two-way fixed effects model, we estimated the effect of women’s repres
 </div>
 
 ## Cosponsor Data
+
+<hr>
 
 As a supplementary extension of this project, we constructed an additional dataset on the demographics of bill cosponsors for the policies in our main dataset. This includes counts by gender, party, and race for legislators supporting each policy. While not part of the primary analysis, these data provide suggestive evidence on who is supporting and advancing gender-related healthcare policies, offering insight into potential mechanisms underlying our main findings. The bar plots below were made through this data. 
 
@@ -82,9 +88,13 @@ As a supplementary extension of this project, we constructed an additional datas
 
 ## Conferences & Publication 
 
+<hr>
+
 We have presented this research at two undergraduate forums now, [UURAF](https://www.instagram.com/reel/DIT3SWEA-M1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D) and Mid-Sure, and will present a reformulated version at Loyola’s State Politics and Policy Conference in June! The working version of this paper can be viewed [here](/publications/).
 
 ## Repository
+
+<hr>
 
 If you would like to view the dataset itself or the codebook, my repository for this project can be found [here.](https://github.com/emmadotrmdfile/Beyond_the_ACA/) My [paper](/publications/) for this project also provides a very detailed explanation of the variables included in the dataset and why. 
 
