@@ -9,7 +9,7 @@ category: academic
 ---
 <hr>
 
-In 2024, I had the opportunity to take a doctoral-level course, *Quantitative Techniques in Public Policy and Political Science II*. I was trained in advanced causal inference from observable data, the methods were difference-in-differences, instrumental variables, fixed effects, bootstrapping, weighting, propensity score matching, and regression discontinuity design. In class, we applied each method to both simulated and real-world data, gaining hands-on experience with quantitative social science analysis. This course was foundational in shaping my interest in using quantitative methods to study social science questions, as reflected in my recent work at IPPSR.
+In 2024, I had the opportunity to take a doctoral-level course, *Quantitative Techniques in Public Policy and Political Science II*, where I trained in advanced causal inference methods applied to observable data. The methods included difference-in-differences, instrumental variables, fixed effects, bootstrapping, weighting, propensity score matching, and regression discontinuity design. In class, we applied each method to both simulated and real-world data, gaining hands-on experience with quantitative social science analysis. This course was foundational in shaping my interest in using quantitative methods to study social science questions, as reflected in my recent work at IPPSR.
 
 For this project, I merged the [Trans Rights Indicator Project (TRIP)](https://www.myleswilliamson.net/trip-data) dataset with global data on women’s parliamentary representation from the [World Bank](https://data.worldbank.org/indicator/SG.GEN.PARL.ZS). The analysis spans 2000–2024 across all countries. The TRIP dataset includes 13 indicators capturing the legal protections and restrictions faced by transgender people worldwide. I focused on a single composite indicator, the TRIP score, which combines all measures into one score reflecting the overall legal environment for transgender rights. Using this measure, I examined the effect of women’s parliamentary representation on transgender policy outcomes. 
 
@@ -26,7 +26,7 @@ At the end of the semester, I presented this work at a poster session hosted by 
 <hr>
 
 <div class="row justify-content-sm-center">
-  <div class="col-10 mt-3 mt-md-0">
+  <div class="col-12 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/trans poster.png" title="poster" 
         class="img-fluid rounded z-depth-1" %}
     </div>
