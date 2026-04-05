@@ -7,12 +7,25 @@ img_hover: assets/img/projects/p5.png
 importance: 5
 category: academic
 ---
+<hr>
 
-This is my first project in Python, and I decided to include it on my website as a keepsake. For this project, I analyzed the socioeconomic impacts of abortion restrictions using data from the [Institute for Women’s Policy Research (IWPR)](https://iwpr.org/2024-analysis-costs-of-reproductive-health-restrictions/) and KFF.
+This is my first project in Python, and I decided to include it on my website as a keepsake. For this project, I analyzed the socioeconomic impacts of abortion restrictions using data from the [Institute for Women’s Policy Research (IWPR)](https://iwpr.org/2024-analysis-costs-of-reproductive-health-restrictions/) and my [co-author's](https://sites.google.com/view/lbrownec/research-projects-cv?authuser=0) dataset, which includes an ordinal variable capturing the restrictiveness levels of abortion policies.
 
 Since the overturning of reproductive rights in 2022, the United States has experienced significant divergence in abortion policies across states. This policy fragmentation presents an opportunity to examine the broader implications of abortion access, particularly regarding women’s workforce participation and state-level economic performance.
 
-I imported the datasets into Jupyter Notebook and merged them. I then modeled the relationship between abortion restrictiveness and economic outcomes using best-fit exponential models for GDP and labor force loss. I also created projected models beyond the highest observed restrictiveness level (level 8), accounting for potential scenarios such as total abortion bans. The data includes observations from 2022 - 2024. 
+I imported the datasets into Jupyter Notebook and merged them. I then modeled the relationship between abortion restrictiveness and economic outcomes using best-fit exponential models for GDP and labor force loss. I also created projected models beyond the highest observed restrictiveness level (level 8), considering potential scenarios such as total abortion bans combined with other state-level restrictions, including limits on travel for abortion access. The data includes observations from 2022 - 2024. 
+
+The types of observed bans are:
+
+- 0 = No Policy
+- 1 = Pre-Roe Ban
+- 2 = Trigger Ban
+- 3 = Gestational Ban
+- 4 = Viability Ban
+- 5 = Method Ban
+- 6 = Reason Ban
+- 7 = Texas SB8 Copycat Ban
+- 8 = Total Ban
 
 This analysis addresses the question: How does abortion access impact women’s workforce participation and a state’s economy?
 
