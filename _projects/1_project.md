@@ -51,14 +51,14 @@ Using a two-way fixed effects model, we estimated the effect of women’s repres
 
 <div class="row align-items-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/poster.png" title="presentation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/dag.png" title="dag" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/results_plot_MID.png" title="results figure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Our Conference Poster and Results Figure.
+    Directed Acyclic Graph and Results Figure.
 </div>
 
 ## Cosponsor Data
@@ -86,5 +86,5 @@ We have presented this research at two undergraduate forums now, [UURAF](https:/
 
 ## Repository
 
-The datasets and codebook can be found [here.](https://github.com/emmadotrmdfile/Beyond_the_ACA/)
+If you would like to view the dataset itself or the codebook, my repository for this project can be found [here.](https://github.com/emmadotrmdfile/Beyond_the_ACA/) My [paper](/publications/) for this project also provides a very detailed explanation of the variables included in the dataset and why. 
 
