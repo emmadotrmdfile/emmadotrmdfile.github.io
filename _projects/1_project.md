@@ -8,6 +8,7 @@ importance: 1
 category: work
 related_publications: false
 ---
+<hr>
 This is my most recent project at the Institute of Public Policy and Social Research. My co-author, [Chloe (Lola) Browne](https://sites.google.com/view/lbrownec/about), and I constructed a panel dataset on insurance mandates related to women’s, men’s, and transgender healthcare, along with the gender composition of U.S. state legislatures from 2010 to 2024. Using this dataset, we applied causal inference methods to examine how women’s representation in U.S. political institutions shapes the passage of gender-specific healthcare policies. More broadly, we aimed to understand the impact of women’s political representation on healthcare policy outcomes.
 
 <div class="row align-items-center">
@@ -47,22 +48,32 @@ The dataset includes information on insurance mandates related to:
     - Gender-affirming surgery
     - Hormone therapy 
 
-## Methods & Findings
+In light of observed policy restrictions, the dataset also includes three limitation categories: abortion coverage limits, erectile dysfunction coverage limits, and gender-affirming care coverage limits. 
+
+## Methods & Findings (remember to move copy these files back into IPPSR folder)
 
 <hr>
 
 Using a two-way fixed effects model, we estimated the effect of women’s representation on the passage of gender-specific healthcare policies across states and over time. We find that increases in women’s representation are associated with a higher likelihood of enacting women’s health-related policies. The effects are smaller for men’s healthcare policies. We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy. 
 
 <div class="row align-items-center">
-    <div class="col-sm-7.5 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/dag.png" title="dag" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4.5 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/results_plot_MID.png" title="results figure" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/women.png" title="results figure" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row align-items-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/men.png" title="results fig" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/trans.png" title="results figure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Directed Acyclic Graph and Results Figure.
+    Directed Acyclic Graph and Results Figures.
 </div>
 
 ## Cosponsor Data

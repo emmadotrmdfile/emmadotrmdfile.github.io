@@ -8,6 +8,7 @@ importance: 2
 category: work
 giscus_comments: false
 ---
+<hr>
 <div class="row align-items-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/anti-discrim.png" title="map" class="img-fluid rounded z-depth-1" %}

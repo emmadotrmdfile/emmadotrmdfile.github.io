@@ -8,7 +8,7 @@ img_hover: assets/img/projects/p3_redo_.png
 importance: 3
 category: work
 ---
-
+<hr>
 As a research assistant under [Dr. Sarah Prior,](https://sociology.msu.edu/people/directory/prior-sarah.html) I worked on her project exploring hookup culture on MSU's campus. My work consisted of analyzing over 100 anonymous student responses to a series of open-ended survey questions, thematically coding these responses in Excel, and writing the *"Discussion"* section of our published article in [Sexuality & Culture.](https://link.springer.com/article/10.1007/s12119-025-10383-8#Sec17) 
 
 Our article primarily focused on two specific prompts: 
@@ -24,10 +24,10 @@ Through this work, I was awarded a research grant from the [Provost Undergraduat
 
 <hr>
 
-<div class="row">
-  <div class="col-10 mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+  <div class="col-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/uuraf.jpg" title="poster" 
-        class="img-fluid rounded z-depth-1 d-block mx-auto" %}
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -35,12 +35,12 @@ Through this work, I was awarded a research grant from the [Provost Undergraduat
 
 <hr>
 
-<div class="row">
-  <div class="col-10 mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+  <div class="col-8 mt-3 mt-md-0">
     {% include figure.liquid 
-       path="assets/img/projects/venn-diagram.png" 
+       path="assets/img/projects/venn.png" 
        title="Venn diagram" 
-       class="img-fluid rounded z-depth-1 d-block mx-auto" %}
+       class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
