@@ -58,7 +58,7 @@ Using a two-way fixed effects model, we estimated the effect of women’s repres
 
 <div class="row align-items-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/dag.png" title="dag" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/dag2.png" title="dag" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/women.png" title="results figure" class="img-fluid rounded z-depth-1" %}
