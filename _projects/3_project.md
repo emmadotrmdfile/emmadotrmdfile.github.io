@@ -21,15 +21,15 @@ We presented this research at multiple conferences, including Michigan State Uni
 Through this work, I was awarded a research grant from the [Provost Undergraduate Research Initiative Award](https://socialscience.msu.edu/news-events/news/2024-11-07.html), and completed training in the Responsible Conduct of Research and Institutional Review Board certification.
 
 ## Poster
-<div class="row align-items-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row">
+  <div class="col-sm-8 mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="assets/img/projects/uuraf.jpg" title="poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 ## Venn Diagram
-<div class="row align-items-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row">
+  <div class="col-sm-8 mt-3 mt-md-0 text-center">
         {% include figure.liquid path="assets/img/projects/venn.png" title="venn diagram" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
