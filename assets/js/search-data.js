@@ -48,11 +48,11 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-gendered-healthcare-policy-project",
           title: 'Gendered Healthcare Policy Project',
-          description: "Novel dataset on gendered healthcare policy with causal analysis of women’s representation",
+          description: "Novel dataset on gender-specifc healthcare policy with causal analysis of women’s representation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-transgender-non-discrim-policy-dataset",
-          title: 'Transgender Non-Discrim Policy Dataset',
+            },},{id: "projects-transgender-non-discrimination-policy-dataset",
+          title: 'Transgender Non-Discrimination Policy Dataset',
           description: "State-year dataset capturing transgender policy protections and restrictions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
