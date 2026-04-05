@@ -50,7 +50,7 @@ The dataset includes information on insurance mandates related to:
 
 In light of observed policy restrictions, the dataset also includes three limitation categories: abortion coverage limits, erectile dysfunction coverage limits, and gender-affirming care coverage limits. 
 
-## Methods & Findings (remember to move copy these files back into IPPSR folder)
+## Methods & Findings
 
 <hr>
 
@@ -58,18 +58,18 @@ Using a two-way fixed effects model, we estimated the effect of women’s repres
 
 <div class="row align-items-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/dag2.png" title="dag" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/dag.png" title="dag" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/women.png" title="results figure" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/women.jpeg" title="results figure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row align-items-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/men.png" title="results fig" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/men.jpeg" title="results fig" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/trans.png" title="results figure" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/trans.jpeg" title="results figure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
