@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Beyond The ACA
-description: A causal inference analysis exploring the effects of women's representation
+title: Gendered Healthcare Policy Project
+description: Novel dataset on gendered healthcare policy with causal analysis of women’s representation
 img: assets/img/projects/p1_without_writing.png
 img_hover: assets/img/projects/p1_with.png
 importance: 1
@@ -9,7 +9,7 @@ category: work
 related_publications: false
 ---
 <hr>
-This is my most recent project at the Institute of Public Policy and Social Research. My co-author, [Chloe (Lola) Browne](https://sites.google.com/view/lbrownec/about), and I constructed a panel dataset on insurance mandates related to women’s, men’s, and transgender healthcare, along with the gender composition of U.S. state legislatures from 2010 to 2024. Using this dataset, we applied causal inference methods to examine how women’s representation in U.S. political institutions shapes the passage of gender-specific healthcare policies. More broadly, we aimed to understand the impact of women’s political representation on healthcare policy outcomes.
+This is my most recent project at the Institute of Public Policy and Social Research, called the Gendered Health Policy Project (GHPP). My co-author, [Chloe (Lola) Browne](https://sites.google.com/view/lbrownec/about), and I constructed a panel dataset on insurance mandates related to women’s, men’s, and transgender healthcare, along with the gender composition of U.S. state legislatures from 2010 to 2024. Using this dataset, we applied causal inference methods to examine how women’s representation in U.S. political institutions shapes the passage of gender-specific healthcare policies. More broadly, we aimed to understand the impact of women’s political representation on healthcare policy outcomes.
 
 <div class="row align-items-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -26,13 +26,11 @@ This is my most recent project at the Institute of Public Policy and Social Rese
     Me presenting at MSU's Undergraduate Research and Arts Forum (where I won first place) and Mid-Sure.
 </div>
 
-## Dataset
+## GHPP Dataset
 
 <hr>
 
-To assess whether a policy was passed in a given state-year, we used LegiScan to obtain the full text of thousands of bills through keyword searches. We then manually reviewed each bill to verify whether it enacted a relevant policy. At the same time, we also compiled existing data on the gender composition of state legislatures. When this was completed, we merged these sources to construct the final state-year panel dataset. 
-
-The dataset includes information on insurance mandates related to:
+The GHPP dataset includes multiple indicators relating to gender-specific insurance mandates:
 
 - Women-Friendly Policy
     - Contraceptives
@@ -50,11 +48,16 @@ The dataset includes information on insurance mandates related to:
 
 In light of observed policy restrictions, the dataset also includes three limitation categories: abortion coverage limits, erectile dysfunction coverage limits, and gender-affirming care coverage limits. 
 
+Because no existing dataset catalogues these insurance mandates, legislative text was collected directly from state-level bill archives using LegiScan. We used keyword searches that yielded the raw text of thousands of bills, which we then manually reviewed to identify legislation mandating essential health insurance coverage for the policies of interest. We read each qualifying bill to verify statutory language before being coded as a binary indicator, where “1” denotes passage in a given state-year and “0” otherwise. At the same time, we also compiled existing data on the gender composition of state legislatures.
+
+When this was completed, we merged the policy and gender composition datasets by state and year resulting in a panel dataset of all fifty states from 2010 to 2024. The final dataset includes binary indicators for the individual policies listed above, aggregated gender-specific policy variables, and measures of women’s legislative representation. 
+
 ## Methods & Findings
 
 <hr>
+After constructing the dataset, we applied causal inference methods to examine whether women’s representation influences the passage of gender-specific healthcare policies. Using a two-way fixed effects model, we estimated the effect of changes in women’s representation on policy adoption across states and over time. 
 
-Using a two-way fixed effects model, we estimated the effect of women’s representation on the passage of gender-specific healthcare policies across states and over time. We find that increases in women’s representation are associated with a higher likelihood of enacting women’s health-related policies. The effects are smaller for men’s healthcare policies. We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy. 
+We find that increases in women’s representation are associated with a higher likelihood of enacting women’s health-related policies. The effects are smaller for men’s healthcare policies. We observe a similar positive relationship for transgender healthcare policies, suggesting that women legislators play a broader role in advancing gender-related healthcare policy. 
 
 <div class="row align-items-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -76,7 +79,7 @@ Using a two-way fixed effects model, we estimated the effect of women’s repres
     Directed Acyclic Graph and Results Figures.
 </div>
 
-## Cosponsor Data
+## Cosponsor Dataset 
 
 <hr>
 
@@ -107,5 +110,5 @@ We have presented this research at two undergraduate forums now, [UURAF](https:/
 
 <hr>
 
-If you would like to view the dataset itself or the codebook, my repository for this project can be found [here.](https://github.com/emmadotrmdfile/Beyond_the_ACA/) My [paper](/publications/) for this project also provides a very detailed explanation of the variables included in the dataset and why. 
+If you would like to use the datasets or the codebook, my repository for this project can be found [here.](https://github.com/emmadotrmdfile/gendered-healthcare-policy-project/) My [paper](/publications/) for this project also provides a very detailed explanation of the variables included in the dataset and why. 
 
