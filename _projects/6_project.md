@@ -32,12 +32,14 @@ To produce these reports, I used a LaTeX template, integrating figures and writt
       Download The Recrudesence of Reproductive Justice
     </a>
 
-    <iframe 
-      src="{{ '/assets/pdf/midterm_huizenga.pdf#toolbar=0' | relative_url }}" 
-      width="100%" 
-      height="700px"
-      style="border: none;">
-    </iframe>
+    <div class="pdf-frame">
+      <iframe 
+        src="{{ '/assets/pdf/midterm_huizenga.pdf#toolbar=0' | relative_url }}" 
+        width="100%" 
+        height="700px"
+        style="border: none;">
+      </iframe>
+    </div>
 
   </div>
 
@@ -50,40 +52,47 @@ To produce these reports, I used a LaTeX template, integrating figures and writt
       Download The Unique Challenges of Trans Identity
     </a>
 
-    <iframe 
-      src="{{ '/assets/pdf/final_huizenga.pdf#toolbar=0' | relative_url }}" 
-      width="100%" 
-      height="700px"
-      style="border: none;">
-    </iframe>
+    <div class="pdf-frame">
+      <iframe 
+        src="{{ '/assets/pdf/final_huizenga.pdf#toolbar=0' | relative_url }}" 
+        width="100%" 
+        height="700px"
+        style="border: none;">
+      </iframe>
+    </div>
 
   </div>
 
 </div>
 
 <style>
+    
 /* Row layout */
 .pdf-row {
   display: flex;
   gap: 20px;
   justify-content: center;
-  flex-wrap: wrap; /* mobile friendly */
+  flex-wrap: wrap;
+  width: 100%;
 }
 
-/* Individual containers */
+/* Container */
 .pdf-container {
-  width: 45%;
-  max-width: 600px;
+  flex: 1 1 48%;
+  max-width: none;
+}
+
+/* Border around PDF */
+.pdf-frame {
   border: 2px solid var(--global-theme-color);
   border-radius: 12px;
-  padding: 15px;
-  background-color: var(--global-bg-color);
+  overflow: hidden;
 }
 
-/* Button styling (same as your CV) */
+/* Button styling */
 .cv-download {
   display: inline-block;
-  margin-bottom: 15px;
+  margin-bottom: 12px;
   padding: 8px 16px;
   border: 2px solid var(--global-theme-color);
   border-radius: 8px;
