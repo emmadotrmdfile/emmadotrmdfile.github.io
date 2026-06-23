@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="#">✿ ✿ ✿</a>
+subtitle: <hr>
 
 profile:
   align: right
