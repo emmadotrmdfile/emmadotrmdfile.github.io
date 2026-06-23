@@ -46,8 +46,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-gendered-healthcare-policy-project",
-          title: 'Gendered Healthcare Policy Project',
+          section: "News",},{id: "projects-gender-specific-insurance-project",
+          title: 'Gender-Specific Insurance Project',
           description: "Novel dataset on gender-specifc healthcare policy with causal analysis of women’s representation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
