@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gendered Healthcare Policy Project
+title: Gender-Specific Insurance Project
 description: Novel dataset on gender-specifc healthcare policy with causal analysis of women’s representation
 img: assets/img/projects/p1_without_writing.png
 img_hover: assets/img/projects/p1_with.png
@@ -9,7 +9,7 @@ category: work
 related_publications: false
 ---
 <hr>
-This is my most recent project at the Institute of Public Policy and Social Research, called the Gender-Specific Inurance Project (GSIP). My co-author, [Chloe (Lola) Browne](https://sites.google.com/view/lbrownec/about), and I constructed a panel dataset on insurance mandates related to women’s, men’s, and transgender healthcare, along with the gender composition of U.S. state legislatures from 2010 to 2024. Using this dataset, we applied causal inference methods to examine how women’s representation in U.S. political institutions shapes the passage of gender-specific healthcare policies. More broadly, we aimed to understand the impact of women’s political representation on healthcare policy outcomes.
+This is my most recent project at the Institute of Public Policy and Social Research, called the Gender-Specific Insurance Project (GSIP). My co-author, [Chloe (Lola) Browne](https://sites.google.com/view/lbrownec/about), and I constructed a panel dataset on insurance mandates related to women’s, men’s, and transgender healthcare, along with the gender composition of U.S. state legislatures from 2010 to 2024. Using this dataset, we applied causal inference methods to examine how women’s representation in U.S. political institutions shapes the passage of gender-specific healthcare policies. More broadly, we aimed to understand the impact of women’s political representation on healthcare policy outcomes.
 
 <div class="row align-items-center">
     <div class="col-sm-4 mt-3 mt-md-0">
