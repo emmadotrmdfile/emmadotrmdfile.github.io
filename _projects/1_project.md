@@ -9,7 +9,7 @@ category: work
 related_publications: false
 ---
 <hr>
-This is my most recent project at the Institute of Public Policy and Social Research, called the Gendered Health Policy Project (GHPP). My co-author, [Chloe (Lola) Browne](https://sites.google.com/view/lbrownec/about), and I constructed a panel dataset on insurance mandates related to women’s, men’s, and transgender healthcare, along with the gender composition of U.S. state legislatures from 2010 to 2024. Using this dataset, we applied causal inference methods to examine how women’s representation in U.S. political institutions shapes the passage of gender-specific healthcare policies. More broadly, we aimed to understand the impact of women’s political representation on healthcare policy outcomes.
+This is my most recent project at the Institute of Public Policy and Social Research, called the Gender-Specific Inurance Project (GSIP). My co-author, [Chloe (Lola) Browne](https://sites.google.com/view/lbrownec/about), and I constructed a panel dataset on insurance mandates related to women’s, men’s, and transgender healthcare, along with the gender composition of U.S. state legislatures from 2010 to 2024. Using this dataset, we applied causal inference methods to examine how women’s representation in U.S. political institutions shapes the passage of gender-specific healthcare policies. More broadly, we aimed to understand the impact of women’s political representation on healthcare policy outcomes.
 
 <div class="row align-items-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -30,7 +30,7 @@ This is my most recent project at the Institute of Public Policy and Social Rese
 
 <hr>
 
-The GHPP dataset includes multiple indicators relating to gender-specific insurance mandates:
+The GSIP dataset includes multiple indicators relating to gender-specific insurance mandates:
 
 - Women-Friendly Policy
     - Contraceptives
@@ -79,11 +79,11 @@ We find that increases in women’s representation are associated with a higher 
     Directed Acyclic Graph and Results Figures.
 </div>
 
-## Cosponsor Dataset 
+## Sponsor Dataset 
 
 <hr>
 
-As a supplementary extension of this project, we constructed an additional dataset on the demographics of bill cosponsors for the policies in our main dataset. This includes counts by gender, party, and race for legislators supporting each policy. While not part of the primary analysis, these data provide suggestive evidence on who is supporting and advancing gender-related healthcare policies, offering insight into potential mechanisms underlying our main findings. The bar plots below were made through this data. 
+As a supplementary extension of this project, we constructed an additional dataset on the demographics of bill sponsors for the policies in our main dataset. This includes counts by gender, party, and race for legislators supporting each policy. While not part of the primary analysis, these data provide suggestive evidence on who is supporting and advancing gender-related healthcare policies, offering insight into potential mechanisms underlying our main findings. The bar plots below were made through this data. 
 
 <div class="row align-items-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -104,7 +104,7 @@ As a supplementary extension of this project, we constructed an additional datas
 
 <hr>
 
-We have presented this research at two undergraduate forums now, [UURAF](https://www.instagram.com/reel/DIT3SWEA-M1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D) and Mid-Sure, and will present a reformulated version at Loyola’s State Politics and Policy Conference in June! The working version of this paper can be viewed [here](/publications/).
+We have presented this research at two undergraduate forums now, [UURAF](https://www.instagram.com/reel/DIT3SWEA-M1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D) and Mid-Sure, and just presented a reformulated version at Loyola’s State Politics and Policy Conference. The working version of this paper can be viewed [here](/publications/).
 
 ## Repository
 
